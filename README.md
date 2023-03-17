@@ -30,4 +30,4 @@ Com isso só resta executar o comando abaixo para inicializar o servidor em `htt
 <br>
 
 ## 🔗 Links Externos
-Você pode acessar o repositório do PWA **[através desse link](https://github.com/thiagowaib/cadastro-seguros/ "através desse link")**.
+Você pode acessar o repositório do PWA **[através desse link](https://github.com/thiagowaib/cadastro-seguros#readme "através desse link")**.
