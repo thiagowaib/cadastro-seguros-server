@@ -1,7 +1,7 @@
 # [Servidor] Cadastro de Seguros
 <img src="https://rise-media.com/wp-content/uploads/tech-banner.jpg" width="100%" alt="Tech Banner"/>
 
-> Repositório para o servidor desenvolvido durante o minicurso "[Construíndo Progressive Web Apps](https://www.udemy.com/share/102Qic3@bbqFWSXHaZVlPcrwbK737TBLrtzlVeNBXztyxu9eTS00CDczWM4Yaohbs5wKqcHC/ "Construíndo Progressive Web Apps")" da Udemy.
+> Repositório para o servidor desenvolvido durante o minicurso "[Construindo Progressive Web Apps](https://www.udemy.com/share/102Qic3@bbqFWSXHaZVlPcrwbK737TBLrtzlVeNBXztyxu9eTS00CDczWM4Yaohbs5wKqcHC/ "Construindo Progressive Web Apps")" da Udemy.
 
 <br>
 
