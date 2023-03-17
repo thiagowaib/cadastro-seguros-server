@@ -5,7 +5,7 @@
 
 <br>
 
-##💻 Tecnologias
+## 💻 Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35px">  •  **NodeJs**: Framework Javascript utilizado para desenvolver a API.
 
 <br>
